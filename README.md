@@ -1,1 +1,6 @@
-# Kausar
+[
+  {
+    "title": "ЕСКЕРТУ!",
+    "dostup": "yes",
+  }
+]
