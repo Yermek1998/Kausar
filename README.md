@@ -2,7 +2,7 @@
   {
     "verse_news": "Жаңа нәрселер шықты  
 Тағы да жаңа нәрселер",
-    "verse_number": "1.1",
+    "verse_number": "1.2",
     "title": "Ermek",
     "message": "Seidualy",
     "ramadan": "Рамазанға дейін",
