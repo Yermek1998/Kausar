@@ -1,7 +1,6 @@
 [
   {
-    "verse_news": "Жаңа нәрселер шықты  
-Тағы да жаңа нәрселер",
+    "verse_news": "new",
     "verse_number": "1.1",
     "title": "Текст",
     "message": "Тест",
