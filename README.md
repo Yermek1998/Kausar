@@ -1,7 +1,7 @@
 [
   {
     "verse_news": "new",
-    "verse_number": "1.1",
+    "verse_number": "1.2",
     "title": "Текст",
     "message": "Тест",
     "ramadan": "Рамазанға дейін",
