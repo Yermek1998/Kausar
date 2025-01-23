@@ -11,6 +11,7 @@
     "reklama": "on",
     "reklamaurl": "https://kausar.app/onetime",
     "reklamatext": "Kausar",
+    "reklamaimg": "img",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
     "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH"
   }
