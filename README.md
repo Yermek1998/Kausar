@@ -9,7 +9,8 @@
     "test": "test",
     "shop": "off",
     "reklama": "off",
-    "reklamaurl": "example",
+    "reklamaurl": "example.com",
+    "reklamatext": "reklama",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
     "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH"
   }
