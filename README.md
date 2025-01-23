@@ -8,7 +8,7 @@
     "ramadan_time": "2025-02-28 18:10:00",
     "test": "test",
     "shop": "off",
-    "reklama": "on",
+    "reklama": "off",
     "reklamaurl": "https://kausar.app/onetime",
     "reklamatext": "Kausar",
     "reklamaimg": "img",
