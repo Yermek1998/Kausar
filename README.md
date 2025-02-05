@@ -15,6 +15,6 @@
     "reklamaimg": "img",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
     "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH",
-    "donate": "5356 5020 0888 6479"
+    "donate": "5356 50200888 6479"
   }
 ]
