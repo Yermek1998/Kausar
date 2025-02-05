@@ -2,7 +2,7 @@
   {
     "verse_news": "new",
     "verse_number": "1.0",
-    "msg": "yes",
+    "msg": "no",
     "title": "Текст",
     "message": "Тест",
     "ramadan": "Рамазанға дейін",
