@@ -14,6 +14,7 @@
     "reklamatext": "Kausar",
     "reklamaimg": "img",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
-    "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH"
+    "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH",
+    "donate": "5356502008886479"
   }
 ]
