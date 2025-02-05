@@ -2,7 +2,7 @@
   {
     "verse_news": "new",
     "verse_number": "1.0",
-    "msg": "yes"
+    "msg": "yes",
     "title": "Текст",
     "message": "Тест2",
     "ramadan": "Рамазанға дейін",
@@ -15,6 +15,6 @@
     "reklamaimg": "img",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
     "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH",
-    "donate": "5356502008886479"
+    "donate": "5356 5020 0888 6479"
   }
 ]
