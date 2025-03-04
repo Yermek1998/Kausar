@@ -1,7 +1,7 @@
 [
   {
     "verse_news": "new",
-    "verse_number": "1.0",
+    "verse_number": "1.0.1",
     "msg": "yes",
     "title": "Текст",
     "message": "Тест2",
