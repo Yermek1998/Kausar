@@ -14,7 +14,7 @@
     "reklamatext": "Kausar",
     "reklamaimg": "img",
     "livemakkah": "K5xvuvRQkBs?si=ZkA4YuNIuBmOzmRt",
-    "livemedina": "Kt7hKHlArl8?si=yDrgFCREz9tbqkkH",
+    "livemedina": "-jWCvRuC254?si=ve9o9EHC9hZyfa0e",
     "donate": "5356 5020 0888 6479"
   }
 ]
