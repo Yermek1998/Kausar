@@ -15,7 +15,7 @@
     "reklamaimg": "img",
     "livemakkah": "7-Qf3g-0xEI?si=BFOoR5XVtuQBPVak",
     "livemedina": "TpT8b8JFZ6E?si=q0jidQn8qb9uLdTa",
-    "sponsor": "Сейдуалы Ермек Маратұлы\n\nМарат Мәриям Ермекқызы/n/nМарат Мұхаммед Ермекұлы",
-    "donate": "5356 5020 0888 6479"
+    "sponsor": "Сейдуалы Ермек Маратұлы\n\nМарат Мәриям Ермекқызы\n\nМарат Мұхаммед Ермекұлы",
+    "donate": "4899 9333 6515 1602"
   }
 ]
