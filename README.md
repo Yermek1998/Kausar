@@ -1,7 +1,7 @@
 [
   {
     "verse_news": "new",
-    "verse_number": "1.0.1",
+    "verse_number": "1.0",
     "msg": "yes",
     "title": "-",
     "message": "Хабарландыру жоқ",
