@@ -1,7 +1,7 @@
 [
   {
-    "verse_news": "new",
-    "verse_number": "1.0",
+    "verse_news": "Намаз уақыттары қосылды\nҚұбыла анықтау қосылды",
+    "verse_number": "1.1",
     "msg": "yes",
     "title": "-",
     "message": "Хабарландыру жоқ",
