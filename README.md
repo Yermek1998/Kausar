@@ -6,7 +6,7 @@
     "title": "-",
     "message": "Хабарландыру жоқ",
     "ramadan": "Рамазанға дейін",
-    "ramadan_time": "2026-02-16 18:44:00",
+    "ramadan_time": "2026-02-18 18:44:00",
     "test": "test",
     "shop": "off",
     "reklama": "off",
