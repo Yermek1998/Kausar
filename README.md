@@ -1,6 +1,6 @@
 [
   {
-    "msg": "+",
+    "msg": "-",
     "title": "Хабарландыру",
     "message": "Хабарландыру текстті",
     "imageurl": "https://storage.yandexcloud.kz/jannatfirdays/IMG_2225.jpg",
