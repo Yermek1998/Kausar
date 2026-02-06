@@ -5,6 +5,6 @@
     "message": "Жақсы көремін7",
     "imageurl": "https://storage.yandexcloud.kz/jannatfirdays/IMG_2287.jpg",
     "livemakkah": "BoL2WuRP0hg",
-    "donate": "4899 9333 6515 1602"
+    "donate": "5269880058915646"
   }
 ]
