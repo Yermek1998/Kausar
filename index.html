@@ -1,1 +1,182 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Құпиялық саясаты — Jannat Firdays</title>
 
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --primary:#10B981;
+  --primary-soft:#D1FAE5;
+  --text:#111827;
+  --text-soft:#6B7280;
+  --bg:#F9FAFB;
+  --card:#FFFFFF;
+}
+
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0F172A;
+    --card:#1E293B;
+    --text:#F8FAFC;
+    --text-soft:#CBD5E1;
+  }
+}
+
+*{margin:0;padding:0;box-sizing:border-box}
+
+body{
+  font-family:'Inter',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.7;
+  -webkit-font-smoothing:antialiased;
+}
+
+.container{
+  max-width:720px;
+  margin:auto;
+  padding:60px 20px 80px;
+}
+
+.header{
+  margin-bottom:40px;
+  animation:fadeUp .8s ease forwards;
+}
+
+.badge{
+  display:inline-block;
+  background:var(--primary-soft);
+  color:var(--primary);
+  padding:6px 14px;
+  border-radius:999px;
+  font-size:12px;
+  font-weight:700;
+  margin-bottom:18px;
+}
+
+h1{
+  font-size:34px;
+  font-weight:900;
+  margin-bottom:12px;
+  letter-spacing:-1px;
+}
+
+.meta{
+  color:var(--text-soft);
+  font-size:14px;
+  margin-top:4px;
+}
+
+.section{
+  background:var(--card);
+  padding:28px;
+  border-radius:20px;
+  margin-bottom:26px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.05);
+  animation:fadeUp 1s ease forwards;
+  transition:.3s ease;
+}
+
+.section:hover{
+  transform:translateY(-4px);
+  box-shadow:0 20px 50px rgba(0,0,0,0.08);
+}
+
+.section h2{
+  font-size:18px;
+  font-weight:800;
+  margin-bottom:14px;
+  border-left:4px solid var(--primary);
+  padding-left:12px;
+}
+
+.section p{
+  font-size:15px;
+  margin-bottom:10px;
+  color:var(--text-soft);
+}
+
+ul{
+  padding-left:18px;
+  margin-bottom:12px;
+}
+
+li{
+  margin-bottom:6px;
+}
+
+.footer{
+  text-align:center;
+  margin-top:60px;
+  font-size:13px;
+  color:var(--text-soft);
+}
+
+@keyframes fadeUp{
+  from{opacity:0; transform:translateY(25px);}
+  to{opacity:1; transform:translateY(0);}
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="header">
+<span class="badge">Privacy Policy</span>
+<h1>Құпиялық саясаты</h1>
+<div class="meta">Jannat Firdays · Күшіне ену күні: 02.02.2026</div>
+<div class="meta">Әзірлеуші: Ермек Сейдуалы · ermek.seidualy@gmail.com</div>
+</div>
+
+<div class="section">
+<h2>1) Жиналатын деректер</h2>
+<p>Қосымша келесі деректерге рұқсат сұрауы мүмкін:</p>
+<ul>
+<li>Орналасқан жер — намаз уақыттарын дәл есептеу үшін</li>
+<li>Хабарландырулар — намаз уақыты еске салғыштары</li>
+<li>Локалды баптаулар — қала, тіл, санағыштар</li>
+</ul>
+<p>Рұқсат берілмесе, кейбір функциялар шектелуі мүмкін.</p>
+</div>
+
+<div class="section">
+<h2>2) Деректерді пайдалану</h2>
+<ul>
+<li>Намаз уақыттарын көрсету</li>
+<li>Елдімекен атауын OpenStreetMap арқылы анықтау</li>
+<li>Хабарландыру жіберу</li>
+<li>Қосымшаны жетілдіру</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>3) Үшінші тарап қызметтері</h2>
+<p>Қосымша OpenStreetMap қызметтерін қолдануы мүмкін. Үшінші тарапқа берілетін ақпарат қажетті минимуммен шектеледі.</p>
+<p>Пайдаланушы деректері сатылмайды және жарнамалық мақсатта таратылмайды.</p>
+</div>
+
+<div class="section">
+<h2>4) Қауіпсіздік</h2>
+<p>Деректердің көп бөлігі құрылғыңызда сақталады. Біз қауіпсіздік шараларын қолданамыз, бірақ интернет арқылы 100% кепілдік беру мүмкін емес.</p>
+</div>
+
+<div class="section">
+<h2>5) Байланыс</h2>
+<p>Құпиялыққа қатысты сұрақтар бойынша:</p>
+<p><strong>Ермек Сейдуалы</strong><br>ermek.seidualy@gmail.com</p>
+</div>
+
+<div class="footer">
+© 2026 Jannat Firdays. Барлық құқықтар қорғалған.
+</div>
+
+</div>
+
+</body>
+</html>
